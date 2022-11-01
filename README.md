@@ -1,2 +1,3 @@
 # netology
-the repo is for homeworks
+the repo is for homeworks.
+and something else
